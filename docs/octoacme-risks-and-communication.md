@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+The Project Manager maintains the risk register and coordinates with the Change Control Coordinator for risks requiring formal change management.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -40,3 +42,6 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+- For data-related risks, escalate to Data Steward
+- For significant changes requiring governance, engage Change Control Coordinator
+- For release-related issues, coordinate with Release Manager

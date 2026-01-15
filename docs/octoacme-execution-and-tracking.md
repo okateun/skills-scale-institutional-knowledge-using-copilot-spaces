@@ -17,11 +17,16 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
+The QA Lead defines the test strategy and coordinates testing activities to ensure quality standards are met.
+
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Test coverage metrics tracked and reported by QA Lead
+
+_For detailed quality assurance practices, see [Roles & Personas](octoacme-roles-and-personas.md) - QA Lead section._
 
 ## Reporting & Metrics
 - Track velocity and burndown

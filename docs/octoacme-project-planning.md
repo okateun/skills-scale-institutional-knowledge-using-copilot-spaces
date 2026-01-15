@@ -31,13 +31,22 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
+Project Managers work with the Change Control Coordinator to ensure changes are properly governed and tracked.
+
 - Capture in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Submit change requests for significant changes via Change Control Coordinator
+- Coordinate with Data Steward for data-related risks and governance requirements
+
+_For change management templates, see [Change Control Template](octoacme-change-control-template.md)._
+_For data governance, see [Data Governance Checklist](octoacme-data-governance-checklist.md)._
 
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
-- [ ] Release timeline and milestones agreed
+- [ ] Release timeline and milestones agreed with Release Manager
 - [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Initial test plan / QA approach drafted with QA Lead
+- [ ] Data governance requirements identified with Data Steward (if applicable)
+- [ ] Change management process reviewed with Change Control Coordinator
