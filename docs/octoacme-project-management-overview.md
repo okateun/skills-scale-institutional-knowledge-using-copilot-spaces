@@ -17,8 +17,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Project Manager (PM): coordinates delivery, schedules, risk, communications.
 - Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
 - Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
+- QA Lead: define test strategy, validate quality and acceptance criteria.
+- Release Manager: coordinate release planning, execution, and deployment processes.
+- Change Control Coordinator: manage change requests, approvals, and governance.
+- Data Steward: ensure data governance, quality, and compliance.
 - Stakeholders: provide inputs and approvals.
+
+_See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role definitions._
 
 ## Key Artifacts
 - Project Charter / One-pager

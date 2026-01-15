@@ -19,6 +19,15 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
 
+**Key Roles to Consider:**
+- Project Manager, Product Manager, Developers (required)
+- QA Lead (for quality-critical projects)
+- Release Manager (for complex or high-risk releases)
+- Change Control Coordinator (for regulated environments or significant changes)
+- Data Steward (for projects involving data governance or compliance)
+
+_See [Roles & Personas](octoacme-roles-and-personas.md) for detailed role descriptions._
+
 ## Project One-pager Template
 - Project name:
 - Problem statement:

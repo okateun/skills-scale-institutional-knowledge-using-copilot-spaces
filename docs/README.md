@@ -19,6 +19,14 @@ Our project management framework consists of the following key areas:
 - **[Risk Management & Communication](octoacme-risks-and-communication.md)** - Risk identification, tracking, and escalation paths
 - **[Roles & Personas](octoacme-roles-and-personas.md)** - Detailed role definitions and responsibilities
 
+## Templates & Checklists
+
+Use these templates to standardize key activities and ensure accountability:
+
+- **[Release Checklist](octoacme-release-checklist.md)** - Comprehensive checklist for release planning, execution, and validation
+- **[Change Control Template](octoacme-change-control-template.md)** - Standard format for change requests and approvals
+- **[Data Governance Checklist](octoacme-data-governance-checklist.md)** - Data quality, security, and compliance validation
+
 ## Key Principles
 
 - **Customer-first**: Prioritize customer value and usability
