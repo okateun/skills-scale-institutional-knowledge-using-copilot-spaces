@@ -57,8 +57,8 @@ _List any dependencies on other systems, teams, or projects._
 | Risk | Likelihood | Impact | Mitigation |
 |------|------------|--------|------------|
 | _Example: Service disruption during deployment_ | _Medium_ | _High_ | _Deploy during low-traffic window_ |
-|      |            |        |            |
-|      |            |        |            |
+
+_Add additional risks as needed_
 
 ### Compliance Considerations
 - [ ] Data Privacy (GDPR, CCPA, etc.)
